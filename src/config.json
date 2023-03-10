@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.asgardeo.io/t/dumindu",
+    "clientID": "Afa6D9bl6xGbJCRNdIidjnSgQZwa",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "http://localhost:3000",
+    "signOutRedirectURL": "http://localhost:3000"
+}
